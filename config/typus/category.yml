@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+Category:
+  fields:
+    default: name, avatar
+    form: name, avatar
+  relationships: sub_categories
+  application: Application
